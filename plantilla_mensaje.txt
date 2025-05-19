@@ -1,0 +1,36 @@
+Asunto: Inconsistencias en Documentación - Proceso de Certificación
+
+Estimado/a {Nombre_Aprendiz},
+Nivel de Formación: {Nivel_Formacion}
+Reciba un cordial saludo.
+Desde el equipo de Registro del Centro Agropecuario “La Granja” – SENA Espinal (Tolima), le informamos que, tras la revisión de su documentación para el proceso de certificación, se han identificado algunas inconsistencias o documentos pendientes que deben ser corregidos o entregados con prontitud.
+
+A continuación, se detalla el estado de sus documentos:
+• Certificado Etapa Productiva emitido por la empresa: {1}
+• Evaluación Parcial: {2}
+• Evaluación Final: {3}
+• Prueba TYT (solo aplica para Tecnólogos): {4}
+• Certificado de Vigencia: {5}
+• Certificado Agencia Pública de Empleo SENA: {6}
+• Evidencia de carnet destruido o constancia: {7}
+• Paz y Salvo académico-administrativo: {8}
+
+Le solicitamos que los documentos corregidos o faltantes sean cargados lo antes posible en el siguiente formulario:
+🔗 Formulario para cargar documentos
+
+Importante:
+• El archivo debe ser un único PDF que contenga todos los documentos mencionados.
+• Deben estar organizados en el mismo orden del listado anterior.
+• El archivo debe estar nombrado con el número de ficha y los nombres y apellidos completos en mayúscula.
+
+Ejemplo de nombre de archivo: 12345 JUANCHO DAVID VALDEZ CORTEZ
+
+Su pronta respuesta es fundamental para evitar retrasos en el proceso de certificación.
+
+Agradecemos su atención y quedamos atentos a cualquier inquietud adicional que pueda surgir.
+
+Atentamente,
+Yair Cárdenas
+Equipo de Registro
+Centro Agropecuario “La Granja”
+SENA – Espinal, Tolima

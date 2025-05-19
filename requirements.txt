@@ -1,0 +1,6 @@
+pandas
+openpyxl
+twilio
+
+ynxv wtbv rvws hqlh
+ynxvwtbvrvwshqlh
